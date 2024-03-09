@@ -606,7 +606,6 @@ footer ul li {
     margin-bottom: 30px;
   }
   .illustrator-mobile {
-    border: 1px solid red;
     height: 545px;
     margin-left: initial;
   }
@@ -634,11 +633,7 @@ footer ul li {
   .designed-2 {
     width: 100%;
   }
-  .illustrator-mobile_div {
-    border: 1px solid yellow;
-  }
   .illustrator-mobile {
-    border: 1px solid red;
     height: 290px;
   }
   .introducing h5,
@@ -697,7 +692,7 @@ footer ul li {
 }
 @media (max-width: 390px) {
   .illustrator-mobile {
-    height: 260px;
+    height: 250px;
   }
   .introducing h5,
   .robust h5,
@@ -705,7 +700,7 @@ footer ul li {
   .free-open h5,
   .powerful h5,
   .additional-1 p {
-    font-size: 32px;
+    font-size: 24px;
   }
   .illustration-phones {
     height: 390px;
@@ -713,7 +708,7 @@ footer ul li {
   .pattern_circle {
     margin-top: 16%;
     height: 455px;
-    width: 100%;
+    width: 95%;
     left: 0%;
   }
   .illustration-laptop {
