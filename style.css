@@ -692,7 +692,8 @@ footer ul li {
 }
 @media (max-width: 390px) {
   .illustrator-mobile {
-    height: 250px;
+    height: 260px;
+    margin-top: -5%;
   }
   .introducing h5,
   .robust h5,
@@ -733,8 +734,8 @@ footer ul li {
     margin-bottom: -52px;
   }
   .illustrator-mobile {
-    height: 246px;
-    margin-top: -30px;
+    height: 250px;
+    margin-top: -5%;
   }
   .introducing h5,
   .robust h5,
